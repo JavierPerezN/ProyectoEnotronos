@@ -1,10 +1,10 @@
 package prueba;
 
-public class asf {
-
-	public static void main(String[] args) {
-		sdgdsfgsdfg
-
+public interface asf {
+	public void titulo();
+	public void entregado();
+	public void genero();
+		
 	}
 
 }
